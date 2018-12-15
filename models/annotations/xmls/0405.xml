@@ -1,0 +1,38 @@
+<annotation>
+	<folder>images</folder>
+	<filename>0405.jpg</filename>
+	<path>C:\Users\Timothy\PycharmProjects\Eye Tracking\models\images\0405.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>eye</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>668</xmin>
+			<ymin>388</ymin>
+			<xmax>694</xmax>
+			<ymax>408</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>eye</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>801</xmin>
+			<ymin>382</ymin>
+			<xmax>825</xmax>
+			<ymax>408</ymax>
+		</bndbox>
+	</object>
+</annotation>
